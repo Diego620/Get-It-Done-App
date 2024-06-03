@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Get it Done</string>
+    <string name="dialog_add_task_title_hint">New task</string>
+    <string name="dialog_add_task_details_hint">Add details</string>
+    <string name="dialog_add_task_details_button">Add Details</string>
+    <string name="dialog_add_task_star_button">Star Task</string>
+</resources>
